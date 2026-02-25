@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Chart slice/bar colors used by PieChartUtils and BarGraphUtils -->
+    <integer-array name="chartColors">
+        <item>0xFF4E79A7</item>
+        <item>0xFFF28E2B</item>
+        <item>0xFFE15759</item>
+        <item>0xFF76B7B2</item>
+        <item>0xFF59A14F</item>
+        <item>0xFFEDC948</item>
+        <item>0xFFB07AA1</item>
+        <item>0xFFFF9DA7</item>
+        <item>0xFF9C755F</item>
+        <item>0xFFBAB0AC</item>
+    </integer-array>
+</resources>
