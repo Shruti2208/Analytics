@@ -97,3 +97,6 @@ app/src/main/java/com/example/analytics/
 ├── AnalyticsApplication.kt
 └── MainActivity.kt
 ```
+<img width="1080" height="2400" alt="Screenshot_20260225_144826" src="https://github.com/user-attachments/assets/20402456-9d02-4a8f-bef2-8c9c01755092" />
+<img width="1080" height="2400" alt="Screenshot_20260225_145007" src="https://github.com/user-attachments/assets/2feca019-2dac-4389-a581-9bc7c7576a0c" />
+
